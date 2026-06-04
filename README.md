@@ -118,7 +118,7 @@ The core of what we did here is identical to what I do today as a Data Analyst:
 
 | File | Description |
 |------|-------------|
-| [`Time_Study_Alloy_Wheel_IJRISE_2018.pdf`](./Time_Study_Alloy_Wheel_IJRISE_2018.pdf) | Full published paper |
+| [`Time_Study_Alloy_Wheel_IJRISE_2018.pdf`](Research_20paper.pdf) | Full published paper |
 
 ---
 
