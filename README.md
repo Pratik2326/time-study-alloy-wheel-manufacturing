@@ -20,7 +20,7 @@
 | **ISSN (e)** | 2394-8299 |
 | **ISSN (p)** | 2394-8280 |
 | **Pages** | 237–240 |
-| **Authors** | Mahesh Naidu, Lopesh Bhoir, **Pratik More**, Mayuresh Chavan |
+| **Authors** | **Pratik More**, Mahesh Naidu, Lopesh Bhoir, Mayuresh Chavan |
 
 ---
 
