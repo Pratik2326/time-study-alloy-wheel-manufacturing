@@ -128,7 +128,7 @@ The core of what we did here is identical to what I do today as a Data Analyst:
 MS Business Analytics, University of Colorado Denver (May 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pratikm0105)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/Pratik2326)
+[![GitHub]([https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github](https://pratik2326.github.io/pratikmore.github.io/index.html))](https://github.com/Pratik2326)
 [![Dashboards](https://img.shields.io/badge/Live%20Dashboards-CU%20Denver-green?style=flat)](https://www.ucdenver.edu/offices/facilities-management-and-planning/sustainability/dashboards)
 [![HR Analytics](https://img.shields.io/badge/HR%20Dashboard-Tableau%20Public-orange?style=flat)](https://public.tableau.com/app/profile/pratik.rajaram.more/viz/HRDashboard1_17755059903640/HRDashboard)
 
